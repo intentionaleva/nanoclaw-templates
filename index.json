@@ -23,6 +23,12 @@
         "name": "family-assistant",
         "version": "1.0.0",
         "description": "Household assistant agent: morning briefs, meal planning and grocery lists, week-ahead logistics, school tracking, price watch, and bookings"
+      },
+      {
+        "ref": "lifestyle/wren",
+        "name": "wren",
+        "version": "0.1.0",
+        "description": "Household emergency-preparedness companion: assesses your real local risks, builds a red/amber/green plan sized to your family and budget, and checks in until it's done."
       }
     ],
     "media": [

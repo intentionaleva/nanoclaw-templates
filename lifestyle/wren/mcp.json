@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "osm": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "osm-mcp@0.3.1"]
+    }
+  }
+}

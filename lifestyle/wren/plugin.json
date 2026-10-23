@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "wren",
+  "version": "0.1.0",
+  "description": "Household emergency-preparedness companion: assesses your real local risks, builds a red/amber/green plan sized to your family and budget, and checks in until it's done.",
+  "author": { "name": "Eva", "url": "https://github.com/intentionaleva" },
+  "extensions": {
+    "ai.nanoco.nanoclaw": { "agentName": "Wren" }
+  }
+}
